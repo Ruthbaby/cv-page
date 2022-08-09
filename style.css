@@ -1,0 +1,228 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Sacramento&display=swap');
+
+*{
+  margin: 0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+body {
+  color: #4ea098;
+  font-family: "Exo", sans-serif;
+  text-align: center;
+  background-color: #f6f6f0;
+}
+
+hr {
+  border: none;
+  border-top: dotted solid rgb(10, 37, 10) 2px;
+  width:4%;
+  margin: 100px auto;
+
+}
+
+h1 {
+  font-family: "Sacramento", sans-serif;
+  font-size: 5.625rem;
+  color: #fff;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.4rem;
+  color: #4ea098;
+  padding: 10px;
+}
+
+h3 {
+  font-family: 'Merienda', Verdana, sans-serif;
+  margin-bottom: 40px;
+  margin-top: 40px;
+  color: #4ea098;
+}
+
+p {
+  line-height: 30px;
+}
+
+a {
+  color:#4ea098;
+  font-family: "Montserrat", sans-serif;
+  margin: 10px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #e5e5f5;
+}
+
+.top-container {
+  background-color: #4ea098;
+  position: relative;
+  padding-top: 100px;
+  /* width: 700px;
+  margin: 0 auto; */
+}
+
+.first-cloud{
+  position:absolute;
+  right:100px;
+  top: 10px;
+  width: 20%;
+}
+
+.cloud-image {
+  position: absolute;
+  left: 80px;
+  top: 300px;
+  width: 20%;
+  opacity: .5;
+}
+
+.mountain-image {
+  opacity: .8;
+  border: none;
+  outline: none;
+}
+
+.middle-container {
+  margin: 100px auto;
+}
+
+.profile img {
+  width: 300px;
+  height: 300px;
+  border-radius: 100%;
+  outline: 2px solid #333;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.computer {
+  border-radius: 100%;
+  height: 200%;
+  width: 200px;
+  float: left;
+  margin-right: 30px;
+}
+
+.cell-tower {
+  border-radius: 50%;
+  height: 125%;
+  width: 125px;
+  float: right;
+  margin-left: 30px;
+}
+
+.skills {
+  width: 50%;
+  margin: -100px auto 100px auto;
+}
+
+.skill-row {
+  margin: auto auto 30px auto;
+}
+
+.contact-me {
+  width:40%;
+  margin:  50px auto;
+  
+}
+
+.bottom-container {
+  background-color: #66bfbf;
+  padding: 50px 0;
+
+}
+
+.button-container {
+  margin-top: -6rem;
+  margin-bottom: 2rem;
+}
+
+.btn {
+  box-shadow: 0px 10px 14px -5px #276873;
+  background-color: linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+  border-radius: 8px;
+  display: inline-block;
+  color: #276873;
+  cursor: pointer;
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 11px 16px;
+  text-decoration: none;
+  text-shadow: 0px 1px 0px #3d768a;
+}
+
+.btn:hover {
+  background-color: linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+  background-color: #408c99;
+  color: #40514e;
+}
+
+.copyright {
+  color: #fff;
+  font-size: 0.95rem;
+  padding: 20px 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .profile {
+  border-radius: 10%;
+  height: 100px;
+  width: 100px;
+  margin: 70px auto;
+}  */
+
+/* .profile h2 {
+  margin: 10px auto;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
